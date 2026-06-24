@@ -1,0 +1,9 @@
+yfinance
+pandas
+pandas_ta
+anthropic
+newsapi
+requests
+curl_cffi
+python-dotenv
+scipy

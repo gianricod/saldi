@@ -1,0 +1,35 @@
+# Environment variables
+.env
+.trading_env
+
+# Cache and data files
+market_data_raw.pkl
+*.pkl
+
+# Backup files
+*.bk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.opencode
+
+# Other
+*.log
+.cache/
